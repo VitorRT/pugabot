@@ -1,0 +1,7 @@
+referenciar as fontes no css:
+
+Righteous: (copiar apenas a linha de baixo)
+    font-family: 'Righteous', cursive;
+    
+Sarala (copiar apenas a linha de baixo)
+    font-family: 'Sarala', sans-serif;
